@@ -1,0 +1,7 @@
+{
+  "name": "AI-City Navigator & Traffic Control",
+  "description": "An advanced Smart City ecosystem for 2026, integrating LLM-powered pedestrian routing, dynamic traffic management, and public transport prioritization for Almaty's Golden Square.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
